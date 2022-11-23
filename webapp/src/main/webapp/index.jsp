@@ -1,5 +1,5 @@
 <html>
-<title> Article on Case study </title>
+<title> Article on the Case study </title>
     <style>
         body {
           color: white;
